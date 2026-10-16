@@ -1,0 +1,90 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2758 >>
+stream
+0.960 0.970 0.990 rg
+0 0 612 792 re f
+1.000 1.000 1.000 rg
+0.820 0.850 0.920 RG 1.5 w
+40 360 532 370 re B
+0.120 0.350 0.850 rg
+40 655 532 75 re f
+1.000 1.000 1.000 rg BT /F2 20 Tf 65 695 Td (TripNest Airways - Boarding Pass) Tj ET
+0.850 0.920 1.000 rg BT /F1 11 Tf 65 672 Td (ELECTRONIC FLIGHT TICKET / CONFIRMED BOOKING) Tj ET
+1.000 0.900 0.300 rg BT /F2 15 Tf 432 685 Td (INDIGO 6E-204) Tj ET
+0.940 0.960 1.000 rg
+60 595 492 50 re f
+0.100 0.200 0.500 rg BT /F2 18 Tf 80 620 Td (BLR) Tj ET
+0.400 0.400 0.500 rg BT /F1 9 Tf 80 604 Td (Bengaluru Kempegowda Intl) Tj ET
+0.300 0.500 0.800 rg BT /F2 14 Tf 270 620 Td (------> 1h 20m ------>) Tj ET
+0.100 0.200 0.500 rg BT /F2 18 Tf 462 620 Td (GOI) Tj ET
+0.400 0.400 0.500 rg BT /F1 9 Tf 432 604 Td (Goa Dabolim Airport) Tj ET
+0.500 0.500 0.600 rg BT /F1 9 Tf 70 569 Td (PASSENGER NAME) Tj ET
+0.100 0.100 0.200 rg BT /F2 13 Tf 70 553 Td (SHREYAS H M) Tj ET
+0.500 0.500 0.600 rg BT /F1 9 Tf 260 569 Td (PNR / BOOKING REF) Tj ET
+0.120 0.350 0.850 rg BT /F2 13 Tf 260 553 Td (TN9482A) Tj ET
+0.500 0.500 0.600 rg BT /F1 9 Tf 420 569 Td (FLIGHT DATE) Tj ET
+0.100 0.100 0.200 rg BT /F2 13 Tf 420 553 Td (15 OCT 2026) Tj ET
+0.970 0.980 1.000 rg
+0.850 0.880 0.950 RG 1 w
+60.0 470 115.5 55 re B
+0.500 0.500 0.600 rg BT /F1 8 Tf 72.0 506 Td (GATE) Tj ET
+0.100 0.400 0.800 rg BT /F2 13 Tf 72.0 485 Td (4B) Tj ET
+0.970 0.980 1.000 rg
+0.850 0.880 0.950 RG 1 w
+185.5 470 115.5 55 re B
+0.500 0.500 0.600 rg BT /F1 8 Tf 197.5 506 Td (BOARDING) Tj ET
+0.800 0.200 0.100 rg BT /F2 13 Tf 197.5 485 Td (06:15 AM) Tj ET
+0.970 0.980 1.000 rg
+0.850 0.880 0.950 RG 1 w
+311.0 470 115.5 55 re B
+0.500 0.500 0.600 rg BT /F1 8 Tf 323.0 506 Td (SEAT) Tj ET
+0.050 0.600 0.300 rg BT /F2 13 Tf 323.0 485 Td (12F \(Win\)) Tj ET
+0.970 0.980 1.000 rg
+0.850 0.880 0.950 RG 1 w
+436.5 470 115.5 55 re B
+0.500 0.500 0.600 rg BT /F1 8 Tf 448.5 506 Td (CLASS) Tj ET
+0.400 0.200 0.700 rg BT /F2 13 Tf 448.5 485 Td (ECONOMY) Tj ET
+0.750 0.780 0.850 RG 1.5 w
+[4 4] 0 d
+55 440 m 557 440 l S
+[] 0 d
+0.400 0.400 0.500 rg BT /F1 9 Tf 70 410 Td (Baggage: 15kg Check-in + 7kg Cabin | Terminal 2 | Please carry valid Photo ID) Tj ET
+0.200 0.200 0.300 rg BT /F1 8 Tf 70 390 Td (Verification Code: ||| | |||| || ||| ||||| |||| || |||||| | |||||| || | |||| ||) Tj ET
+0.050 0.600 0.300 rg BT /F2 10 Tf 412 390 Td (STATUS: CONFIRMED) Tj ET
+0.200 0.200 0.300 rg BT /F2 12 Tf 45 320 Td (Sample Flight E-Ticket Document for TripNest Vault Testing) Tj ET
+0.400 0.400 0.400 rg BT /F1 10 Tf 45 300 Td (- Category: TICKET / FLIGHT) Tj ET
+0.400 0.400 0.400 rg BT /F1 10 Tf 45 285 Td (- Formats supported: PDF, PNG, JPG up to 10 MB) Tj ET
+0.400 0.400 0.400 rg BT /F1 10 Tf 45 270 Td (- Use in DocumentVaultTab.jsx to test Upload, In-Browser Preview, Download, and Delete.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3212
+%%EOF

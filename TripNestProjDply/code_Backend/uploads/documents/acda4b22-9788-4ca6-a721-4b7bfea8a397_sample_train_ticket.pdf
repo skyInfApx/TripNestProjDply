@@ -1,0 +1,90 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2861 >>
+stream
+0.980 0.970 0.950 rg
+0 0 612 792 re f
+1.000 1.000 1.000 rg
+0.880 0.820 0.750 RG 1.5 w
+40 360 532 370 re B
+0.020 0.450 0.350 rg
+40 655 532 75 re f
+1.000 1.000 1.000 rg BT /F2 19 Tf 65 695 Td (Indian Railways - IRCTC E-Ticket) Tj ET
+0.850 0.980 0.920 rg BT /F1 11 Tf 65 672 Td (ELECTRONIC RESERVATION SLIP \(ERS\) / VALID WITH ID) Tj ET
+1.000 0.950 0.400 rg BT /F2 14 Tf 402 685 Td (TRAIN: 12007 SHATABDI) Tj ET
+0.950 0.980 0.960 rg
+60 595 492 50 re f
+0.050 0.350 0.250 rg BT /F2 18 Tf 80 620 Td (MAS \(Chennai Central\)) Tj ET
+0.400 0.500 0.400 rg BT /F1 9 Tf 80 604 Td (Departure: 06:00 AM | Platform: 2) Tj ET
+0.200 0.500 0.300 rg BT /F2 13 Tf 270 620 Td (---- 5 hrs 00 mins ---->) Tj ET
+0.050 0.350 0.250 rg BT /F2 18 Tf 412 620 Td (SBC \(Bengaluru City\)) Tj ET
+0.400 0.500 0.400 rg BT /F1 9 Tf 412 604 Td (Arrival: 11:00 AM | Platform: 1) Tj ET
+0.500 0.500 0.500 rg BT /F1 9 Tf 70 569 Td (PASSENGER NAME) Tj ET
+0.100 0.200 0.100 rg BT /F2 13 Tf 70 553 Td (SHREYAS H M \(Age: 23, Male\)) Tj ET
+0.500 0.500 0.500 rg BT /F1 9 Tf 265 569 Td (PNR NUMBER) Tj ET
+0.020 0.450 0.350 rg BT /F2 13 Tf 265 553 Td (452-9817263) Tj ET
+0.500 0.500 0.500 rg BT /F1 9 Tf 420 569 Td (TRAVEL DATE) Tj ET
+0.100 0.200 0.100 rg BT /F2 13 Tf 420 553 Td (18 OCT 2026) Tj ET
+0.980 0.990 0.980 rg
+0.850 0.900 0.850 RG 1 w
+60.0 470 115.5 55 re B
+0.500 0.500 0.500 rg BT /F1 8 Tf 70.0 506 Td (COACH) Tj ET
+0.020 0.450 0.350 rg BT /F2 12 Tf 70.0 485 Td (C2) Tj ET
+0.980 0.990 0.980 rg
+0.850 0.900 0.850 RG 1 w
+185.5 470 115.5 55 re B
+0.500 0.500 0.500 rg BT /F1 8 Tf 195.5 506 Td (BERTH / SEAT) Tj ET
+0.100 0.300 0.800 rg BT /F2 12 Tf 195.5 485 Td (45 \(Window\)) Tj ET
+0.980 0.990 0.980 rg
+0.850 0.900 0.850 RG 1 w
+311.0 470 115.5 55 re B
+0.500 0.500 0.500 rg BT /F1 8 Tf 321.0 506 Td (CLASS / QUOTA) Tj ET
+0.700 0.300 0.100 rg BT /F2 12 Tf 321.0 485 Td (AC Chair \(GN\)) Tj ET
+0.980 0.990 0.980 rg
+0.850 0.900 0.850 RG 1 w
+436.5 470 115.5 55 re B
+0.500 0.500 0.500 rg BT /F1 8 Tf 446.5 506 Td (TOTAL FARE) Tj ET
+0.200 0.600 0.200 rg BT /F2 12 Tf 446.5 485 Td (INR 985.00) Tj ET
+0.800 0.800 0.700 RG 1.5 w
+[4 4] 0 d
+55 440 m 557 440 l S
+[] 0 d
+0.400 0.400 0.400 rg BT /F1 9 Tf 70 410 Td (Meals: Breakfast Included | Catering Opted: YES | Standard Cancellation rules apply) Tj ET
+0.200 0.200 0.200 rg BT /F1 8 Tf 70 390 Td (QR / IRCTC Security Key: ||||| || |||||| | |||| ||||| || |||| | |||||| || | |||||) Tj ET
+0.020 0.550 0.250 rg BT /F2 10 Tf 412 390 Td (BOOKING STATUS: CNF) Tj ET
+0.200 0.200 0.300 rg BT /F2 12 Tf 45 320 Td (Sample Train E-Reservation Slip for TripNest Vault Testing) Tj ET
+0.400 0.400 0.400 rg BT /F1 10 Tf 45 300 Td (- Category: TICKET / TRAIN) Tj ET
+0.400 0.400 0.400 rg BT /F1 10 Tf 45 285 Td (- Valid Indian Railways ERS ticket structure simulation) Tj ET
+0.400 0.400 0.400 rg BT /F1 10 Tf 45 270 Td (- Ready to drag and drop into DocumentVaultTab.jsx) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3315
+%%EOF
