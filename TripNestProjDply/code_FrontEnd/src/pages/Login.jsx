@@ -100,8 +100,9 @@ function Login() {
                   type="button"
                   className="google-btn"
                   onClick={() => {
+                    const apiBase = import.meta.env.VITE_API_BASE_URL || "http://localhost:8080";
                     window.location.href =
-                      "http://localhost:8080/oauth2/authorization/google";
+                      `${apiBase}/oauth2/authorization/google`;
                   }}
                 >
                   <span>G</span>

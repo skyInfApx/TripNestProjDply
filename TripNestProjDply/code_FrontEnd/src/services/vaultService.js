@@ -1,6 +1,6 @@
 import apiClient from "./apiClient";
 
-const API_BASE_URL = "http://localhost:8080";
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8080";
 
 /**
  * Vault Service: Handles API communication for Trip Document Vault & Media Hub.
