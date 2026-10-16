@@ -41,8 +41,16 @@ public class OAuth2LoginSuccessHandler
 
         String token = jwtService.generateToken(email);
 
+        String frontendUrl = System.getenv("FRONTEND_URL");
+        if (frontendUrl == null || frontendUrl.trim().isEmpty()) {
+            frontendUrl = "http://localhost:5173";
+        }
+        if (frontendUrl.endsWith("/")) {
+            frontendUrl = frontendUrl.substring(0, frontendUrl.length() - 1);
+        }
+
         response.sendRedirect(
-                "http://localhost:5173/dashboard?token=" + token
+                frontendUrl + "/dashboard?token=" + token
         );
     }
 }
